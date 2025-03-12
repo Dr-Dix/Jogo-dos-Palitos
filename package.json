@@ -1,0 +1,21 @@
+{
+  "name": "projetinho",
+  "version": "1.0.0",
+  "description": "ele e safado",
+  "main": "Main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "safado",
+    "sem",
+    "vergonha"
+  ],
+  "author": "Fuleiro",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "readline-sync": "^1.4.10"
+  }
+}
